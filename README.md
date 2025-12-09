@@ -38,8 +38,10 @@ Actualmente estoy enfocándome en:
 ---
 
 ## 📊 Mis estadísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aibarra9-ux&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aibarra9-ux&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aibarra9-ux&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aibarra9-ux&layout=compact&theme=dark)
+
 
 ---
 
