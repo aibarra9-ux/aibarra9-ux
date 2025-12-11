@@ -34,15 +34,22 @@ Soy un estudiante y desarrollador en formación apasionado por aprender nuevas t
 ## 📌 Repositorios Destacados
 
 ### 🔹 Ejercicios en C  
-[![Ejercicios en C](https://img.shields.io/badge/GitHub-Ejercicios%20en%20C-181717?style=for-the-badge&logo=github)](https://github.com/aibarra9-ux/Ejercicios-en-C)
+<a href="https://github.com/aibarra9-ux/Ejercicios-en-C">
+  <img src="https://img.shields.io/badge/Ejercicios%20en%20C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</a>
 
 ### 🔹 Ejercicios en Java  
-[![Ejercicios en Java](https://img.shields.io/badge/GitHub-Ejercicios%20en%20Java-181717?style=for-the-badge&logo=github)](https://github.com/aibarra9-ux/Ejercicios-en-Java)
+<a href="https://github.com/aibarra9-ux/Ejercicios-en-Java">
+  <img src="https://img.shields.io/badge/Ejercicios%20en%20Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</a>
 
 ### 🔹 Mi primer videojuego en Pygame  
 > *Proyecto colaborativo con 5 personas más*
 
-[![EcoDash Videogame](https://img.shields.io/badge/GitHub-EcoDash%20Videogame-181717?style=for-the-badge&logo=github)](https://github.com/DanaNava/EcoDash-Videogame-ODS-12)
+<a href="https://github.com/DanaNava/EcoDash-Videogame-ODS-12">
+  <img src="https://img.shields.io/badge/EcoDash%20(Pygame)-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</a>
+
 
 
 
