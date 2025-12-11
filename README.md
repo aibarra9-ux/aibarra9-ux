@@ -1,39 +1,54 @@
-# 👋 ¡Hola! Soy Alan
+# 👋 ¡Hola! Soy Alan Ibarra
 
-🎓 Estudiante de desarrollo de software  
-💻 Actualmente aprendiendo y creando proyectos para mejorar mis habilidades  
-📱 Interesado en desarrollo de aplicaciones, programación y tecnología en general  
-🎮 Fan del RPG y los números
+Soy un estudiante y desarrollador en formación apasionado por aprender nuevas tecnologías, mejorar mi lógica y crear proyectos que me reten.  
 
 ---
 
-## 🚀 Tecnologías que conozco
+## 🚀 Tecnologías que manejo
 
-### 🧩 Lenguajes
-- **C** — Básico  
-- **Python** — Intermedio  
-- **Java** — Básico  
-- **JavaScript** — Básico  
-- **SQL** — Básico  
-
-### 🌐 Web
-- **HTML** — Básico  
-- **CSS** — Básico  
-
-### 🛠️ Herramientas
-- **Git & GitHub** — Básico  
-- Android Studio (aprendiendo)  
+### 🧩 Lenguajes  
+| Lenguaje | Nivel |
+|---------|--------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/> **Python** | 🟦🟦🟦⬜⬜ — Intermedio |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="32"/> **C** | 🟦🟦🟦⬜⬜ — Básico/Intermedio |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32"/> **Java** | 🟦🟦⬜⬜⬜ — Básico/Intermedio |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32"/> **JavaScript** | 🟦🟦⬜⬜⬜ — Básico |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32"/> **SQL** | 🟦🟦⬜⬜⬜ — Básico |
 
 ---
 
-## 📈 Mi camino como desarrollador
+## 🌐 Desarrollo Web
+| Tecnología | Nivel |
+|------------|--------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32"/> **HTML** | 🟦🟦⬜⬜⬜ — Básico |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32"/> **CSS** | 🟦🟦⬜⬜⬜ — Básico |
 
-Actualmente estoy enfocándome en:
+---
 
-- Aprender más de **Android** y Java  
-- Desarrollar una **pagina web implementando una base de datos**  
-- Mejorar mis fundamentos en programación  
-- Crear proyectos prácticos para aprender haciendo  
+## 🛠️ Herramientas
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28"/> **Git & GitHub** — 🟦🟦🟦⬜⬜ *Básico/Intermedio*  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="28"/> **Android Studio** — Aprendiendo
+
+---
+
+## 📌 Repositorios Destacados
+
+### 🔹 Ejercicios en C
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=aibarra9-ux&repo=Ejercicios-en-C&theme=tokyonight)]((https://github.com/aibarra9-ux/Ejercicios-en-C.git)
+
+### 🔹 Ejercicios en Java
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=aibarra9-ux&repo=Ejercicios-en-Java&theme=tokyonight)]((https://github.com/aibarra9-ux/Ejercicios-en-Java.git))
+
+### 🔹 Mi primer videojuego creado en PYGAME
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=aibarra9-ux&repo=ECODASH&theme=tokyonight)] (https://github.com/DanaNava/EcoDash-Videogame-ODS-12.git)
+
+---
+
+## 📚 Actualmente aprendiendo
+- Programación Orientada a Objetos (Java)  
+- Estructuras de datos  
+- Desarrollo móvil (Android Studio)  
+- Buenas prácticas y patrones de diseño  
 
 ---
 
@@ -49,6 +64,14 @@ Actualmente estoy enfocándome en:
 - Mejorar mis habilidades en Java  
 - Crear más proyectos para mi portafolio  
 - Subir prácticas y ejercicios para mostrar mi progreso  
+
+---
+
+## 🎯 Sobre mí
+- Me gusta resolver problemas y entender cómo funcionan las cosas.  
+- Siempre busco escribir código más limpio y eficiente.  
+- Disfruto aprender algo nuevo cada día.  
+
 
 ---
 
