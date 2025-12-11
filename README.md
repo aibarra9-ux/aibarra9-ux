@@ -33,14 +33,17 @@ Soy un estudiante y desarrollador en formación apasionado por aprender nuevas t
 
 ## 📌 Repositorios Destacados
 
-### 🔹 Ejercicios en C
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=aibarra9-ux&repo=Ejercicios-en-C&theme=tokyonight)]((https://github.com/aibarra9-ux/Ejercicios-en-C.git)
+### 🔹 Ejercicios en C  
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=aibarra9-ux&repo=Ejercicios-en-C&theme=tokyonight)](https://github.com/aibarra9-ux/Ejercicios-en-C)
 
-### 🔹 Ejercicios en Java
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=aibarra9-ux&repo=Ejercicios-en-Java&theme=tokyonight)]((https://github.com/aibarra9-ux/Ejercicios-en-Java.git))
+### 🔹 Ejercicios en Java  
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=aibarra9-ux&repo=Ejercicios-en-Java&theme=tokyonight)](https://github.com/aibarra9-ux/Ejercicios-en-Java)
 
-### 🔹 Mi primer videojuego creado en PYGAME
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=aibarra9-ux&repo=ECODASH&theme=tokyonight)] (https://github.com/DanaNava/EcoDash-Videogame-ODS-12.git)
+### 🔹 Mi primer videojuego creado en Pygame  
+> *Proyecto colaborativo con 5 personas más*
+
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=DanaNava&repo=EcoDash-Videogame-ODS-12&theme=tokyonight)](https://github.com/DanaNava/EcoDash-Videogame-ODS-12)
+
 
 ---
 
