@@ -34,15 +34,16 @@ Soy un estudiante y desarrollador en formación apasionado por aprender nuevas t
 ## 📌 Repositorios Destacados
 
 ### 🔹 Ejercicios en C  
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=aibarra9-ux&repo=Ejercicios-en-C&theme=tokyonight)](https://github.com/aibarra9-ux/Ejercicios-en-C)
+[![Ejercicios en C](https://img.shields.io/badge/GitHub-Ejercicios%20en%20C-181717?style=for-the-badge&logo=github)](https://github.com/aibarra9-ux/Ejercicios-en-C)
 
 ### 🔹 Ejercicios en Java  
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=aibarra9-ux&repo=Ejercicios-en-Java&theme=tokyonight)](https://github.com/aibarra9-ux/Ejercicios-en-Java)
+[![Ejercicios en Java](https://img.shields.io/badge/GitHub-Ejercicios%20en%20Java-181717?style=for-the-badge&logo=github)](https://github.com/aibarra9-ux/Ejercicios-en-Java)
 
-### 🔹 Mi primer videojuego creado en Pygame  
+### 🔹 Mi primer videojuego en Pygame  
 > *Proyecto colaborativo con 5 personas más*
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=DanaNava&repo=EcoDash-Videogame-ODS-12&theme=tokyonight)](https://github.com/DanaNava/EcoDash-Videogame-ODS-12)
+[![EcoDash Videogame](https://img.shields.io/badge/GitHub-EcoDash%20Videogame-181717?style=for-the-badge&logo=github)](https://github.com/DanaNava/EcoDash-Videogame-ODS-12)
+
 
 
 ---
