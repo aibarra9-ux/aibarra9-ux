@@ -43,6 +43,11 @@ Soy un estudiante y desarrollador en formación apasionado por aprender nuevas t
   <img src="https://img.shields.io/badge/Ejercicios%20en%20Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </a>
 
+### 🔹 Ejercicios en Python  
+<a href="https://github.com/aibarra9-ux/Ejercicios-en-Python.git">
+    <img src="https://img.shields.io/badge/Ejercicios%20en%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</a>
+
 ### 🔹 Mi primer videojuego en Pygame  
 > *Proyecto colaborativo con 5 personas más*
 
